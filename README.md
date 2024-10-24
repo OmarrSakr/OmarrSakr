@@ -30,7 +30,7 @@
 <li>🏫 I am a <code>Computer Science student</code> at Al-Shorouk Academy</li>
 <li>🔭 I’m currently working A <code>freelancer</code>
 <li>🌱 I’m currently studying <code>Frontend</code> and <code>CCNA</code></li>
-<li>📫 How to reach me <strong><a href="https://www.google.com" target="_blank">omarrhussein13@gmail.com</a></strong></li>
+<li>📫 How to reach me <strong><a href="mailto:omarrhussein13@gmail.com" target="_blank">omarrhussein13@gmail.com</a></strong></li>
 <li>🤔 I’m currently open for a new <code>job opportunity</code>, this is <a href="https://drive.google.com/file/" rel="nofollow" target="_blank">MY RESUME</a>.</li>
 <li>🤓 Always <code>learning new things</code></li>
 <li>⚡ Fun fact <code>I love Coding</code></li>
