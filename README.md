@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning **Frontend and CCNA**
 
-- 📫 How to reach me **omarrhussein13@gmail.com**
+- 📫 How to reach me 📧**omarrhussein13@gmail.com**
 
 - 💬 Ask me about **ReactJs and Frontend**
 
