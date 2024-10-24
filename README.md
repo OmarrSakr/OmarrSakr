@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working as a **freelancer**
 
-- 💬 Ask me about **ReactJs and Frontend**
-
 - 📫 How to reach me **omarrhussein13@gmail.com**
+
+- 💬 Ask me about **ReactJs and Frontend**
 
 - 🤔 I’m currently open for a new job opportunity, this is [__](__)
 
