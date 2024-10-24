@@ -3,9 +3,9 @@
 
 - 🏫 I am a Computer Science student at **Al-Shorouk Academy**
 
-- 🌱 I’m currently learning **Frontend and CCNA**
-
 - 🔭 I’m currently working as a **freelancer**
+  
+- 🌱 I’m currently learning **Frontend and CCNA**
 
 - 📫 How to reach me **omarrhussein13@gmail.com**
 
