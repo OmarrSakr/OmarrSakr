@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" 
         alt="Twitter" 
         style="max-width: 100%;"></a>
-  <a href="https://www.instagram.com/_omarrsakr_/" target="_blank" title="Instagram">
+  <a href="https://www.instagram.com/_omarsakr_/" target="_blank" title="Instagram">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" 
         alt="Instagram" 
         style="max-width: 100%;"></a>
