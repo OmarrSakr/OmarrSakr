@@ -49,11 +49,9 @@
         data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
         style="max-width: 100%;"></a>
   <a href="https://api.whatsapp.com/send?phone=201280281610" target="_blank">
-  <img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Contact"/></a>
+  <img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff" alt="WhatsApp Contact"/></a>
   <a href="https://x.com/omarsakr_1" target="_blank" title="Twitter">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" 
-        alt="Twitter" 
-        style="max-width: 100%;"></a>
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter" style="max-width: 100%;"></a>
   <a href="https://www.instagram.com/_omarsakr_/" target="_blank" title="Instagram">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" 
         alt="Instagram" 
