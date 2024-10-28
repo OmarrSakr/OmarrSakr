@@ -48,6 +48,8 @@
         alt="LinkedIn"
         data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
         style="max-width: 100%;"></a>
+  <a href="https://api.whatsapp.com/send?phone=201280281610" target="_blank">
+  <img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Contact"/></a>
   <a href="https://x.com/omarsakr_1" target="_blank" title="Twitter">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" 
         alt="Twitter" 
@@ -71,6 +73,9 @@
     <a href="https://github.com/" target="_blank" title="GitHub">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
             alt="GitHub" style="max-width: 100%;"></a>
+  <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" title="CCNA" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/CCNA-%230F4C81.svg?style=for-the-badge&logo=cisco&logoColor=white"
+        alt="CCNA" style="max-width: 100%;"></a>
      <a href="https://isocpp.org/" title="C++" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
             alt="C++" style="max-width: 100%;"></a>
@@ -107,9 +112,18 @@
     <a href="https://sass-lang.com/" title="Sass" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"
             alt="Sass" style="max-width: 100%;"></a>
-    <a href="https://www.mysql.com/" title="MySQL" target="_blank" rel="nofollow">
+  <a href="https://dotnet.microsoft.com/apps/aspnet" title="ASP.NET" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/asp.net-%23239120.svg?style=for-the-badge&logo=aspnet&logoColor=white"
+        alt="ASP.NET" style="max-width: 100%;"></a>
+   <a href="https://www.mysql.com/" title="MySQL" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"
             alt="MySQL" style="max-width: 100%;"></a>
+<a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" title="CCNA" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/CCNA-%230F4C81.svg?style=for-the-badge&logo=cisco&logoColor=white"
+        alt="CCNA" style="max-width: 100%;"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"
+        alt="Visual Studio Code" style="max-width: 100%;"></a>
     <a href="https://www.adobe.com/products/illustrator.html" title="Illustrator" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"
             alt="Illustrator" style="max-width: 100%;"></a>
@@ -118,28 +132,40 @@
             alt="Photoshop" style="max-width: 100%;"></a>
 </p>
 <div class="markdown-heading" dir="auto">
-    <h2 class="heading-element" dir="auto">📊 Github Stats</h2>
-    <a id="user-content--github-stats" class="anchor" aria-label="Permalink: 📊 Github Stats" href="#-github-stats">
-        <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-            <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
-        </svg></a>
-</div>
+ <h2>
+  <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> 
+  Github Stats
+</h2>
 
-<p align="center" dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-streak-stats.herokuapp.com/?user=OmarrSakr&theme=tokyonight_duo">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarrSakr&theme=tokyonight_duo" alt="OmarrSakr" style="max-width: 100%;"></a>
-</p>
+<img 
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarrSakr&theme=monokai" 
+  alt="Profile Details" width="100%">
 
 <br>
 
-<p align="center" dir="auto">
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-        <img alt="OmarrSakr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=OmarrSakr&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px" style="max-width: 100%;"></a>
-                                                                                                                <!-- عرض 15 لغة في الإحصائيات -->
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs?username=OmarrSakr&langs_count=15&show_icons=true&locale=en&theme=tokyonight">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarrSakr&langs_count=15&show_icons=true&locale=en&theme=tokyonight" 
-             alt="OmarrSakr's Most Used Languages" height="230px" style="max-width: 100%;"></a>
-    <br>
+<p align="center">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmarrSakr&theme=monokai" 
+    alt="Repos Per Language" width="24%">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarrSakr&theme=monokai" 
+    alt="Most Commit Language" width="24%">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarrSakr&theme=monokai" 
+    alt="Stats" width="24%">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmarrSakr&theme=monokai&utcOffset=8" 
+    alt="Productive Time" width="24%">
 </p>
 
 <p dir="auto"><b>⚠ Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+<br>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+
+<br>
