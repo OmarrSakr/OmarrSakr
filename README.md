@@ -157,8 +157,9 @@
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmarrSakr&theme=monokai&utcOffset=8" 
     alt="Productive Time" width="24%">
 </p>
-
-<p dir="auto"><b>⚠ Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+<div>
+  <p dir="auto" style="font-size: 24px; font-weight: bold;"><b>⚠ Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+</div>
 <br>
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
