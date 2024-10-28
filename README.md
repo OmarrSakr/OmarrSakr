@@ -155,6 +155,7 @@
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmarrSakr&theme=monokai&utcOffset=8" 
     alt="Productive Time" width="24%">
 </p>
+<br>
 <div>
   <p dir="auto" style="font-size: 24px; font-weight: bold;"><b>⚠ Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </div>
