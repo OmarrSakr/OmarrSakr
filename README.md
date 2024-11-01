@@ -131,9 +131,6 @@
    <a href="https://www.mysql.com/" title="MySQL" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"
             alt="MySQL" style="max-width: 100%;"></a>
-<a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" title="CCNA" target="_blank" rel="nofollow">
-    <img src="https://img.shields.io/badge/CCNA-%230F4C81.svg?style=for-the-badge&logo=cisco&logoColor=white"
-        alt="CCNA" style="max-width: 100%;"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"
         alt="Visual Studio Code" style="max-width: 100%;"></a>
