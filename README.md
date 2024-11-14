@@ -15,8 +15,8 @@
         <img src="https://img.shields.io/github/issues/OmarrSakr/OmarrSakr?color=orange" alt="Issues Badge"/></a>
     <a href="https://github.com/OmarrSakr/OmarrSakr/graphs/contributors">
         <img src="https://img.shields.io/github/contributors/OmarrSakr/OmarrSakr?color=2b9348" alt="GitHub contributors"/></a>
-    <a href="https://x.com/omarsakr_1">
-        <img src="https://img.shields.io/twitter/follow/omarsakr_1?style=social" alt="Follow on X"/></a>
+    <a href="https://x.com/OmarrSaqr" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/OmarrSaqr?style=social" alt="Follow on X"/></a>
 <!--     <a href="https://github.com/OmarrSakr/OmarrSakr/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/OmarrSakr/OmarrSakr?color=2b9348" alt="License Badge"/></a> -->
 </div>
@@ -65,7 +65,7 @@
         style="max-width: 100%;"></a>
   <a href="https://api.whatsapp.com/send?phone=201280281610" target="_blank">
   <img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff" alt="WhatsApp Contact"/></a>
-  <a href="https://x.com/omarsakr_1" target="_blank" title="Twitter">
+<a href="https://x.com/OmarrSaqr" target="_blank" title="Twitter">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter" style="max-width: 100%;"></a>
   <a href="https://www.instagram.com/_omarsakr_/" target="_blank" title="Instagram">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" 
