@@ -19,8 +19,8 @@
     <img src="https://img.shields.io/twitter/follow/OmarrSaqr?style=social" alt="Follow on X"/></a>
   <a href="https://www.linkedin.com/in/omarrhussein" target="_blank">
     <img src="https://img.shields.io/badge/-omarrhussein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarrhussein" alt="LinkedIn: omarrhussein" /></a>
-  
-  [![committers.top rank](https://user-badge.committers.top/egypt/OmarrSakr.svg)](https://user-badge.committers.top/egypt/OmarrSakr)
+
+ <!--  [![committers.top rank](https://user-badge.committers.top/egypt/OmarrSakr.svg)](https://user-badge.committers.top/egypt/OmarrSakr) -->
 <!--     <a href="https://github.com/OmarrSakr/OmarrSakr/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/OmarrSakr/OmarrSakr?color=2b9348" alt="License Badge"/></a> -->
 </div>
