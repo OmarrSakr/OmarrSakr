@@ -15,10 +15,12 @@
         <img src="https://img.shields.io/github/issues/OmarrSakr/OmarrSakr?color=orange" alt="Issues Badge"/></a> -->
     <a href="https://github.com/OmarrSakr/OmarrSakr/graphs/contributors">
         <img src="https://img.shields.io/github/contributors/OmarrSakr/OmarrSakr?color=2b9348" alt="GitHub contributors"/></a>
-    <a href="https://x.com/OmarrSaqr" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/OmarrSaqr?style=social" alt="Follow on X"/></a>
-  <a href="https://www.linkedin.com/in/omarrhussein" target="_blank">
-    <img src="https://img.shields.io/badge/-omarrhussein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarrhussein" alt="LinkedIn: omarrhussein" /></a>
+   <a href="https://x.com/OmarrSaqr" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/twitter/follow/OmarrSaqr?style=social&background=000000" alt="Follow on X" style="max-width: 100%; height: auto;"></a>
+
+<a href="https://www.linkedin.com/in/omarrhussein" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-omarrhussein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarrhussein" alt="LinkedIn: omarrhussein" style="max-width: 100%; height: auto;"></a>
+
 
  <!--  [![committers.top rank](https://user-badge.committers.top/egypt/OmarrSakr.svg)](https://user-badge.committers.top/egypt/OmarrSakr) -->
 <!--     <a href="https://github.com/OmarrSakr/OmarrSakr/blob/master/LICENSE">
@@ -197,9 +199,10 @@
     </svg>
   </a>
 </div>
-<a href="https://www.buymeacoffee.com/omarrhussev" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
-</a>
+<a href="https://www.buymeacoffee.com/omarrhussev" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+       alt="Buy Me A Coffee" 
+       style="height: 60px !important; width: 217px !important; max-width: 100%; height: auto;"></a>
 
 <br>
 <br>
