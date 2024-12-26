@@ -60,11 +60,10 @@
 <a href="https://linktr.ee/Omarrhussein" title="Linktree" onclick="window.open('https://linktr.ee/Omarrhussein', '_blank'); return false;">
     <img src="https://img.shields.io/badge/Linktree-darkgreen.svg?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" style="max-width: 100%; height: auto;"></a>
   
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=omarrhussein13@gmail.com" title="Gmail" target="_blank">
+<a href="mailto:omarrhussein13@gmail.com?subject=Subject%20Here&body=Body%20text%20here" title="Gmail" target="_blank">
     <img src="https://camo.githubusercontent.com/d450447694b79318c4a02da2e89e7cd6a86d883207c6fca0b51021a64af3f79e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"
         alt="Gmail"
-        data-canonical-src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
-        style="max-width: 100%;"></a>
+        style="max-width: 100%; height: auto;"></a>
 
  <a href="https://www.linkedin.com/in/omarrhussein" title="LinkedIn" rel="nofollow" target="_blank">
     <img src="https://camo.githubusercontent.com/0c59c81be6c6e981fbad69ea742692368b3fdc1018090a34cb7764dfea5a1a91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
