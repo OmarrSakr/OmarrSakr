@@ -74,8 +74,10 @@
 <a href="https://api.whatsapp.com/send?phone=201280281610" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff" alt="WhatsApp Contact" style="max-width: 100%;"></a>
 
-<a href="https://x.com/OmarrSaqr" target="_blank" title="Twitter" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter" style="max-width: 100%;"></a>
+<a href="https://x.com/OmarrSaqr" target="_blank" title="Twitter (X)" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter%20(X)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" 
+         alt="Twitter (X)" 
+         style="max-width: 100%; height: auto;"></a>
 
 <a href="https://www.instagram.com/_omarsakr_/" target="_blank" title="Instagram" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" style="max-width: 100%;"></a>
@@ -90,13 +92,13 @@
     <a href="https://git-scm.com/" title="Git" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"
             style="max-width: 100%;"></a>
-    <a href="https://github.com/" target="_blank" title="GitHub">
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
-            alt="GitHub" style="max-width: 100%;"></a>
-  <a href="https://codeforces.com/profile/horse-13" target="_blank" title="Codeforces">
+   <a href="https://github.com/OmarrSakr" target="_blank" title="GitHub" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
+        alt="GitHub" style="max-width: 100%; height: auto;"></a>
+ <a href="https://codeforces.com/profile/horse-13" target="_blank" title="Codeforces" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Codeforces-%231877F2.svg?style=for-the-badge&logo=codeforces&logoColor=white" 
         alt="Codeforces Profile" 
-        style="max-width: 100%;"></a>
+        style="max-width: 100%; height: auto;"></a>
   <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" title="CCNA" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/CCNA-%230F4C81.svg?style=for-the-badge&logo=cisco&logoColor=white"
         alt="CCNA" style="max-width: 100%;"></a>
