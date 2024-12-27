@@ -226,10 +226,10 @@
     <table>
         <tr>
             <td align="center">
-                <a href="https://github.com/CRISHFAS">
-                    <img src="https://avatars.githubusercontent.com/u/161903451?v=4" width="75px" alt="CRISHFAS" />
+                <a href="https://github.com/AhmeeddMostafa">
+                    <img src="https://avatars.githubusercontent.com/u/96956592?v=4" width="75px" alt="Ahmeed Mostafa" />
                     <br />
-                    <sub>CRISHFAS</sub>
+                    <sub>Ahmeed Mostafa</sub>
                 </a>
             </td>
         </tr>
