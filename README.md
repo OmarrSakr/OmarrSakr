@@ -189,10 +189,20 @@
 <div>
   <p dir="auto" style="font-size: 24px; font-weight: bold;"><b>⚠ Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </div>
+<br>
+<br>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
 
 <br>
 <div class="markdown-heading" dir="auto">
   <h2 class="heading-element" dir="auto">☕ Support My Work</h2>
+
   <a id="user-content--support-my-work" class="anchor" aria-label="Permalink: ☕ Support My Work" href="#-support-my-work">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
       <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
@@ -204,16 +214,24 @@
        alt="Buy Me A Coffee" 
        style="height: 60px !important; width: 217px !important; max-width: 100%; height: auto;"></a>
 
-<br>
-<br>
-<br>
-<br>
-<br>
+       
+---
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
+<div align="center" style="background-color: black; padding: 20px;">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=E28905&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Top+followers%3A" alt="Typing SVG"/></a>
+    <!--START_SECTION:followers-->
+    <table>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/CRISHFAS">
+                    <img src="https://avatars.githubusercontent.com/u/161903451?v=4" width="75px" alt="CRISHFAS" />
+                    <br />
+                    <sub>CRISHFAS</sub>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<br>
