@@ -152,6 +152,9 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"
         alt="Visual Studio Code" style="max-width: 100%;"></a>
+  <a href="https://visualstudio.microsoft.com/" title="Visual Studio" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white"
+        alt="Visual Studio" style="max-width: 100%;"></a>
     <a href="https://www.adobe.com/products/illustrator.html" title="Illustrator" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"
             alt="Illustrator" style="max-width: 100%;"></a>
@@ -213,8 +216,7 @@
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
        alt="Buy Me A Coffee" 
        style="height: 60px !important; width: 217px !important; max-width: 100%; height: auto;"></a>
-
-       
+   
 ---
 
 <div align="center" style="background-color: black; padding: 20px;">
@@ -234,4 +236,3 @@
     </table>
 </div>
 
-<br>
