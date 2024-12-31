@@ -216,6 +216,14 @@
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
        alt="Buy Me A Coffee" 
        style="height: 60px !important; width: 217px !important; max-width: 100%; height: auto;"></a>
+       <br>
+       <br>
+  <a href="https://www.patreon.com/OmarSakr" target="_blank" rel="noopener noreferrer" 
+   style="display: inline-block; text-decoration: none; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" 
+       alt="Become a Patron" 
+       style="display: block; height: 60px !important; width: auto !important; max-width: 100%; height: auto; border-radius: 8px;"></a>
+
    
 ---
 
