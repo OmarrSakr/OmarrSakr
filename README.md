@@ -235,15 +235,25 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=E28905&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Top+followers%3A" alt="Typing SVG"/></a>
     <!--START_SECTION:followers-->
     <table>
-        <tr>
-            <td align="center">
-                <a href="https://github.com/AhmeeddMostafa">
-                    <img src="https://avatars.githubusercontent.com/u/96956592?v=4" width="75px" alt="Ahmeed Mostafa" />
-                    <br />
-                    <sub>Ahmeed Mostafa</sub>
-                </a>
-            </td>
-        </tr>
+         <tr>
+        <td align="center" style="margin-right: 5px;">
+            <a href="https://github.com/AhmeeddMostafa">
+                <img src="https://avatars.githubusercontent.com/u/96956592?v=4" width="75px" alt="Ahmeed Mostafa" />
+                <br />
+                <sub>Ahmeed Mostafa</sub>
+            </a>
+        </td>
+        <td align="center" style="margin-left: 5px;">
+            <a href="https://github.com/Mohmoudomarr">
+                <img src="https://avatars.githubusercontent.com/u/193899952?v=4" width="75px" alt="Mohmoud omar" />
+                <br />
+                <sub>Mohmoud omar</sub>
+            </a>
+        </td>
+    </tr>
+      <tr>
+      <td colspan="2" style="height: 20px; background-color: #f0f0f0;"></td> <!-- فاصل بين الجداول -->
+      </tr> 
     </table>
 </div>
 
