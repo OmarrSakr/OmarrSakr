@@ -106,7 +106,7 @@
          alt="Twitter (X)" 
          style="max-width: 100%; height: auto;"></a>
 
-<a href="https://www.instagram.com/_omarsakr_/" target="_blank" title="Instagram" rel="noopener noreferrer">
+<a href="https://www.instagram.com/omarssaqr/" target="_blank" title="Instagram" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" style="max-width: 100%;"></a>
 
 <a href="https://www.facebook.com/OmarSakkr" target="_blank" title="Facebook" rel="noopener noreferrer">
