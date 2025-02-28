@@ -229,12 +229,13 @@
 
 <br>
 
+<!--
 ---
 
 <div align="center" style="background-color: black; padding: 20px;">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=E28905&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Top+followers%3A" alt="Typing SVG"/></a>
-    <!--START_SECTION:followers-->
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=E28905&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Top+followers%3A" 
+           alt="Typing SVG"/></a>
     <table>
          <tr>
         <td align="center" style="margin-right: 5px;">
@@ -253,8 +254,8 @@
         </td>
     </tr>
       <tr>
-      <td colspan="2" style="height: 20px; background-color: #f0f0f0;"></td> <!-- فاصل بين الجداول -->
+      <td colspan="2" style="height: 20px; background-color: #f0f0f0;"></td> 
       </tr> 
     </table>
 </div>
-
+-->
