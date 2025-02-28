@@ -215,7 +215,7 @@
 </p>
 <br>
 <div>
-  <p dir="auto" style="font-size: 24px; font-weight: bold;"><b>⚠ Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+  <p dir="auto" style="font-size: 24px; font-weight: bold;"><b>⚠ Note:</b> The <code>Top Languages</code> section is merely a representation of the languages used in my public repositories and does not indicate my proficiency or experience level.</p>
 </div>
 <br>
 <br>
