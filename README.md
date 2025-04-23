@@ -18,8 +18,8 @@
    <a href="https://x.com/OmarrSaqr" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/twitter/follow/OmarrSaqr?style=social&background=000000" alt="Follow on X" style="max-width: 100%; height: auto;"></a>
 
-<a href="https://www.linkedin.com/in/omarrhussein" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-omarrhussein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarrhussein" alt="LinkedIn: omarrhussein" style="max-width: 100%; height: auto;"></a>
+<a href="https://www.linkedin.com/in/omarrhussien" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-omarrhussien-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarrhussien" alt="LinkedIn: omarrhussien" style="max-width: 100%; height: auto;"></a>
 
 
  <!--  [![committers.top rank](https://user-badge.committers.top/egypt/OmarrSakr.svg)](https://user-badge.committers.top/egypt/OmarrSakr) -->
@@ -86,7 +86,7 @@
 <a href="https://linktr.ee/Omarrhussein" title="Linktree" onclick="window.open('https://linktr.ee/Omarrhussein', '_blank'); return false;">
     <img src="https://img.shields.io/badge/Linktree-darkgreen.svg?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" style="max-width: 100%; height: auto;"></a>
 
-<a href="https://www.linkedin.com/in/omarrhussein" title="LinkedIn" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/omarrhussien" title="LinkedIn" target="_blank" rel="noopener noreferrer">
     <img src="https://camo.githubusercontent.com/0c59c81be6c6e981fbad69ea742692368b3fdc1018090a34cb7764dfea5a1a91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
         alt="LinkedIn"
         data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
