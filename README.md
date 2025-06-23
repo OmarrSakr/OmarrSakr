@@ -50,7 +50,7 @@
 <ul dir="auto">
   <li>🏫 I am a <code>Computer Science student</code> at Al-Shorouk Academy</li>
   <li>🔭 I’m currently working as a <code>freelancer</code> in web development.</li>
-  <li>🌱 I’m currently studying <code>Backend Development</code> and <code>CCNA</code>.</li>
+  <li>🌱 I’m currently studying <code>Backend Development</code>.</li>
   <li>📫 How to reach me: <strong><a href="mailto:DevOmarHussein@gmail.com"><code>DevOmarHussein@gmail.com</code></a></strong></li>
   <li>🤔 I’m currently open for a new <code>job opportunity</code>. You can check my <a href="https://drive.google.com/file/YOUR_RESUME_LINK" target="_blank" rel="noopener noreferrer"><code><strong>Resume</strong></code></a></li>
   <li>🤓 Always <code>learning new technologies</code> to stay updated.</li>
