@@ -51,7 +51,7 @@
   <li>🏫 I am a <code>Computer Science student</code> at Al-Shorouk Academy</li>
   <li>🔭 I’m currently working as a <code>freelancer</code> in web development.</li>
   <li>🌱 I’m currently studying <code>Backend Development</code>.</li>
-  <li>📫 How to reach me: <strong><a href="mailto:DevOmarHussein@gmail.com"><code>DevOmarHussein@gmail.com</code></a></strong></li>
+  <li>📫 How to reach me: <strong><a href="mailto:DevOmarHussien@gmail.com"><code>DevOmarHussein@gmail.com</code></a></strong></li>
   <li>🤔 I’m currently open for a new <code>job opportunity</code>. You can check my <a href="https://drive.google.com/file/YOUR_RESUME_LINK" target="_blank" rel="noopener noreferrer"><code><strong>Resume</strong></code></a></li>
   <li>🤓 Always <code>learning new technologies</code> to stay updated.</li>
   <li>⚡ Fun fact: <code>I love coding and building cool projects</code>!</li>
@@ -92,7 +92,7 @@
         data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
         style="max-width: 100%;"></a>
   
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=DevOmarHussein@gmail.com" title="Gmail" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=DevOmarHussien@gmail.com" title="Gmail" target="_blank">
     <img src="https://camo.githubusercontent.com/d450447694b79318c4a02da2e89e7cd6a86d883207c6fca0b51021a64af3f79e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"
         alt="Gmail"
         style="max-width: 100%; height: auto;"></a>
