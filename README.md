@@ -168,12 +168,12 @@
     <a href="https://sass-lang.com/" title="Sass" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"
             alt="Sass" style="max-width: 100%;"></a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet" title="ASP.NET" target="_blank" rel="nofollow">
+<!--   <a href="https://dotnet.microsoft.com/apps/aspnet" title="ASP.NET" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/asp.net-%23239120.svg?style=for-the-badge&logo=aspnet&logoColor=white"
-        alt="ASP.NET" style="max-width: 100%;"></a>
-   <a href="https://www.mysql.com/" title="MySQL" target="_blank" rel="nofollow">
+        alt="ASP.NET" style="max-width: 100%;"></a> -->
+<!--    <a href="https://www.mysql.com/" title="MySQL" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"
-            alt="MySQL" style="max-width: 100%;"></a>
+            alt="MySQL" style="max-width: 100%;"></a> -->
 <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"
         alt="Visual Studio Code" style="max-width: 100%;"></a>
