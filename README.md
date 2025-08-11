@@ -72,12 +72,12 @@
        style="height: 60px !important; width: 217px !important; max-width: 100%; height: auto;"></a>
        <br>
        <br>
-<a href="https://www.patreon.com/OmarSakr" target="_blank" rel="noopener noreferrer" 
+<!-- <a href="https://www.patreon.com/OmarSakr" target="_blank" rel="noopener noreferrer" 
    style="display: inline-block; text-decoration: none; border-radius: 10px; overflow: hidden; 
           box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); transition: transform 0.2s ease, box-shadow 0.2s ease;">
  <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" 
      alt="Become a Patron" 
-     style="display: block; height: 60px; width: auto; max-width: 100%; height: auto; border-radius: 10px;"></a>
+     style="display: block; height: 60px; width: auto; max-width: 100%; height: auto; border-radius: 10px;"></a> -->
 
 ---
 
