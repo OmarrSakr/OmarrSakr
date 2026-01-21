@@ -87,20 +87,22 @@
 <a href="https://linktr.ee/OmarrSakr" title="Linktree" onclick="window.open('https://linktr.ee/OmarrSakr', '_blank'); return false;">
     <img src="https://img.shields.io/badge/Linktree-darkgreen.svg?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" style="max-width: 100%; height: auto;"></a>
 
+<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/omarrhussien" title="LinkedIn" target="_blank" rel="noopener noreferrer">
-    <img src="https://camo.githubusercontent.com/0c59c81be6c6e981fbad69ea742692368b3fdc1018090a34cb7764dfea5a1a91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="LinkedIn"
-        data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
+        data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         style="max-width: 100%;"></a>
   
+<!-- Gmail -->
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=DevOmarHussien@gmail.com" title="Gmail" target="_blank">
-    <img src="https://camo.githubusercontent.com/d450447694b79318c4a02da2e89e7cd6a86d883207c6fca0b51021a64af3f79e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"
         alt="Gmail"
+        data-canonical-src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"
         style="max-width: 100%; height: auto;"></a>
 
-
 <a href="https://api.whatsapp.com/send?phone=201280281610" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff" alt="WhatsApp Contact" style="max-width: 100%;"></a>
+    <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Contact" style="max-width: 100%;"></a>
 
 <a href="https://x.com/OmarrSaqr" target="_blank" title="Twitter (X)" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter%20(X)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" 
@@ -146,7 +148,7 @@
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
             alt="HTML5" style="max-width: 100%;"></a>
     <a href="https://www.w3.org/Style/CSS/" title="CSS3" target="_blank" rel="nofollow">
-        <img src="https://img.shields.io/badge/css3-%23157122.svg?style=for-the-badge&logo=css3&logoColor=white"
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
             alt="CSS3" style="max-width: 100%;"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
