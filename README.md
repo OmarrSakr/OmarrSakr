@@ -1,45 +1,28 @@
-<h1 align="center">Hi 👋, I'm Omar Hussien</h1>
+<h1 align="center">Hi 👋, I'm Omar Sakr</h1>
 <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Full-Stack Developer | Crafting intuitive, pixel-perfect web interfaces</h3>
 
 
   
 <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div align="center">
-    <a href="https://github.com/OmarrSakr/OmarrSakr/stargazers">
-        <img src="https://img.shields.io/github/stars/OmarrSakr/OmarrSakr" alt="Stars Badge"/></a>
-    <a href="https://github.com/OmarrSakr/OmarrSakr/network/members">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/OmarrSakr/OmarrSakr.svg?style=flat">
+  <a href="https://github.com/OmarrSakr/OmarrSakr/network/members">
         <img src="https://img.shields.io/github/forks/OmarrSakr/OmarrSakr" alt="Forks Badge"/></a>
   <a href="https://github.com/OmarrSakr/OmarrSakr/pulls">
         <img src="https://img.shields.io/github/issues-pr/OmarrSakr/OmarrSakr?color=orange" alt="Pull Requests Badge"/></a>
-<!--     <a href="https://github.com/OmarrSakr/OmarrSakr/issues">
-        <img src="https://img.shields.io/github/issues/OmarrSakr/OmarrSakr?color=orange" alt="Issues Badge"/></a> -->
-    <a href="https://github.com/OmarrSakr/OmarrSakr/graphs/contributors">
+ <a href="https://github.com/OmarrSakr/OmarrSakr/graphs/contributors">
         <img src="https://img.shields.io/github/contributors/OmarrSakr/OmarrSakr?color=2b9348" alt="GitHub contributors"/></a>
    <a href="https://x.com/OmarrSaqr" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/twitter/follow/OmarrSaqr?style=social&background=000000" alt="Follow on X" style="max-width: 100%; height: auto;"></a>
-
 <a href="https://www.linkedin.com/in/omarrhussien" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-omarrhussien-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarrhussien" alt="LinkedIn: omarrhussien" style="max-width: 100%; height: auto;"></a>
-
-
- <!--  [![committers.top rank](https://user-badge.committers.top/egypt/OmarrSakr.svg)](https://user-badge.committers.top/egypt/OmarrSakr) -->
-<!--     <a href="https://github.com/OmarrSakr/OmarrSakr/blob/master/LICENSE">
-        <img src="https://img.shields.io/github/license/OmarrSakr/OmarrSakr?color=2b9348" alt="License Badge"/></a> -->
 </div>
 <br>
-<p align="center" dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" 
-        href="https://komarev.com/ghpvc/?username=OmarrSakr&label=Profile%20views&color=0e75b6&style=flat">
-        <img src="https://komarev.com/ghpvc/?username=OmarrSakr&label=Profile%20views&color=0e75b6&style=flat" 
-            alt="OmarrSakr" 
-            data-canonical-src="https://komarev.com/ghpvc/?username=OmarrSakr&label=Profile%20views&color=0e75b6&style=flat" 
-            style="max-width: 100%; margin-right: 10px;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" 
-        href="https://img.shields.io/github/followers/OmarrSakr?label=Followers">
-        <img src="https://img.shields.io/github/followers/OmarrSakr?label=Followers" 
-            alt="OmarrSakr" 
-            data-canonical-src="https://img.shields.io/github/followers/OmarrSakr?label=Followers" 
-            style="max-width: 100%;"></a>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=OmarrSakr&label=Profile%20views&color=0e75b6&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=OmarrSakr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
+  <a href="https://github.com/OmarrSakr?tab=followers">
+    <img src="https://img.shields.io/github/followers/OmarrSakr?label=Followers&style=flat" alt="Followers" /></a>
 </p>
 <br>
 <p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" data-target="animated-image.originalLink"><img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
@@ -51,7 +34,7 @@
   <li>🏫 I am a <code>Computer Science student</code> at Al-Shorouk Academy</li>
   <li>🔭 I’m currently working as a <code>freelancer</code> in web development.</li>
   <!-- <li>🌱 I’m currently studying <code></code>.</li> -->
-  <li>📫 How to reach me: <strong><a href="mailto:DevOmarHussien@gmail.com"><code>DevOmarHussien@gmail.com</code></a></strong></li>
+  <li>📫 How to reach me: <strong><a href="mailto:DevOmarSakr@gmail.com"><code>DevOmarHussien@gmail.com</code></a></strong></li>
   <li>🤔 I’m currently open for a new <code>job opportunity</code>. </code></a></li>
   <!-- You can check my <a href="https://omarsakr.vercel.app" target="_blank" rel="noopener noreferrer"><code><strong>Resume</strong> -->
   <li>🤓 Always <code>learning new technologies</code> to stay updated.</li>
