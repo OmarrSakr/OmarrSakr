@@ -34,7 +34,7 @@
   <li>🏫 I am a <code>Computer Science student</code> at Al-Shorouk Academy</li>
   <li>🔭 I’m currently working as a <code>freelancer</code> in web development.</li>
   <!-- <li>🌱 I’m currently studying <code></code>.</li> -->
-  <li>📫 How to reach me: <strong><a href="mailto:DevOmarSakr@gmail.com"><code>DevOmarHussien@gmail.com</code></a></strong></li>
+  <li>📫 How to reach me: <strong><a href="mailto:DevOmarSakr@gmail.com"><code>DevOmarSakr@gmail.com</code></a></strong></li>
   <li>🤔 I’m currently open for a new <code>job opportunity</code>. </code></a></li>
   <!-- You can check my <a href="https://omarsakr.vercel.app" target="_blank" rel="noopener noreferrer"><code><strong>Resume</strong> -->
   <li>🤓 Always <code>learning new technologies</code> to stay updated.</li>
